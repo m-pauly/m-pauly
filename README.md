@@ -1,5 +1,5 @@
-👋 Hi, I’m @m-pauly 
+👋 Hi, I’m Markus
 
-👀 I’m interested into app-design and programming
+👀 I’m interested into app-design, AI and programming
 
 📫 How to reach me #MailMe
